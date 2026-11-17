@@ -1,0 +1,13 @@
+.input-lock-panel .system-status-icon {
+    opacity: 200;
+}
+
+/* Locked: red icon so you can tell input is blocked. */
+.input-lock-panel.input-lock-on {
+    background-color: #c01c28;
+    border-radius: 99px;
+}
+.input-lock-panel.input-lock-on .system-status-icon {
+    opacity: 255;
+    color: #ffffff;
+}

@@ -1,0 +1,11 @@
+{
+  "uuid": "input-lock@arjun",
+  "name": "Input Lock",
+  "description": "Click the top-bar lock icon to block keyboard, clicks, scrolling and gestures and freeze the pointer. Press Super+Backspace to unlock.",
+  "shell-version": [
+    "48",
+    "49",
+    "50",
+    "51"
+  ]
+}
